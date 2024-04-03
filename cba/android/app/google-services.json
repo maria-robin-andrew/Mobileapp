@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "890604729467",
+    "firebase_url": "https://access-car-boot-default-rtdb.firebaseio.com",
+    "project_id": "access-car-boot",
+    "storage_bucket": "access-car-boot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890604729467:android:fd560489e9f95c2a659ede",
+        "android_client_info": {
+          "package_name": "com.clone.cba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890604729467-3s0388vftpprvi2vqqm6dvq478emr38u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-dZpCmXHSUER81vDJCxUflWnFX6piJAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890604729467-3s0388vftpprvi2vqqm6dvq478emr38u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "890604729467-g51cl0pj6447g2to20ap2ratr91in8ro.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.carAccessBoot"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890604729467:android:b31d3b0acddd0e54659ede",
+        "android_client_info": {
+          "package_name": "com.example.car_access_boot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890604729467-3s0388vftpprvi2vqqm6dvq478emr38u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-dZpCmXHSUER81vDJCxUflWnFX6piJAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890604729467-3s0388vftpprvi2vqqm6dvq478emr38u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "890604729467-g51cl0pj6447g2to20ap2ratr91in8ro.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.carAccessBoot"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
